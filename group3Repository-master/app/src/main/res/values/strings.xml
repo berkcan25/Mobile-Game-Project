@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="select_the_game">Select the Game</string>
+    <string name="flappy_bird">Flappy bird</string>
+    <string name="tic_tac_toe">Tic tac toe</string>
+    <string name="sudoku">Sudoku</string>
+    <string name="homeTile">Tic-Tac-Toe</string>
+    <string name="playButton">PLAY</string>
+    <string name="PlayerSetup">Player Setup</string>
+    <string name="player1">Player 1</string>
+    <string name="player2">Player 2</string>
+    <string name="Submit">Submit</string>
+    <string name="namehint">Enter Your Name</string>
+    <string name="play_again">Play Again</string>
+    <string name="go_home">Home</string>
+    <string name="score_0">Score: 0</string>
+    <string name="game_over">GAME OVER</string>
+</resources>
